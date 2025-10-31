@@ -1,0 +1,9 @@
+path: data
+train: images
+val: images
+
+nc: 3
+names:
+  0: stop
+  1: speed_limit_60
+  2: no_entry
